@@ -18,3 +18,8 @@ Extracting real life data from UCI datasets
 
 8 Seismic-Bumps
 
+Training the above data with models from scikit-learn's Linear regression, Support vector regression, Decision tree regression, Random forest regression
+kk-nearest neighbours regression, AdaBoost regression, Gaussian process regression, Neural network regression.
+
+
+Finally, building a neural network model using CIFAR-10 dataset and achieve an accuracy of 80+%
